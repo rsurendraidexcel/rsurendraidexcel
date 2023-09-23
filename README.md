@@ -1,5 +1,15 @@
 This Contains All the ML & AI Projects that I have done while understanding Concepts during my Academic Course
 
+My Profile:
+https://la.utexas.edu/texasexeced/digitalVerification.html?key=KTNfL
+
+https://olympus1.mygreatlearning.com/certificate/OFFEOFKF
+
+Project and Assignment In Profile:
+
+https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
+
+Notebooks details:
 
 1.	Supervised Learning –
 •	Medical : Patient Condition Prediction
