@@ -43,3 +43,16 @@ https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 •	Social Media Analytics : Sarcasm Detection
 •	Customer Support : Interactive Semi - Rule Based Chatbot
 •	Digital content and entertainment industry : IMDB Review Customer Sentiment Analysis
+
+
+**Forecasting: Principles and Practice**
+
+[https://otexts.com/fpp3/intro.html](https://otexts.com/fpp3/intro.html)
+
+**R-Data Science**
+
+[https://r4ds.had.co.nz/index.html](https://r4ds.had.co.nz/index.html)
+
+R Programming for Data Science:
+
+ [https://bookdown.org/rdpeng/rprogdatascience/](https://bookdown.org/rdpeng/rprogdatascience/) 
