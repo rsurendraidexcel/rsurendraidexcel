@@ -1,16 +1,20 @@
+**Name:** Surendra Bahadur Rai
+
+**LinkedIn Connect :** https://www.linkedin.com/in/surendra-bahadur-rai-14561818/
+
+
 This Contains All the ML & AI Projects that I have done while understanding Concepts during my Academic Course
 
-My Profile:
-
+**My Profile:**
 https://la.utexas.edu/texasexeced/digitalVerification.html?key=KTNfL
 
 https://olympus1.mygreatlearning.com/certificate/OFFEOFKF
 
-Project and Assignment In Profile:
+**Project and Assignment In Profile:**
 
 https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 
-Notebooks details:
+**Notebooks details:**
 
 1.	Supervised Learning –
 •	Medical : Patient Condition Prediction
