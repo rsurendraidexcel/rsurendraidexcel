@@ -53,6 +53,18 @@ https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 
 [https://r4ds.had.co.nz/index.html](https://r4ds.had.co.nz/index.html)
 
-R Programming for Data Science:
+**R Programming for Data Science:**
 
  [https://bookdown.org/rdpeng/rprogdatascience/](https://bookdown.org/rdpeng/rprogdatascience/) 
+
+ **Under stating R- Mean, median, Harmonic Mean, Weight mean,Geometric Mean**
+
+ (https://www.gs.washington.edu/academics/courses/akey/56008/lecture/)[https://www.gs.washington.edu/academics/courses/akey/56008/lecture/]
+
+ 
+**Probability for Data Science**
+
+(https://probability4datascience.com/lecture.html)[https://probability4datascience.com/lecture.html]
+
+(https://probability4datascience.com/video_ch01.html)[https://probability4datascience.com/video_ch01.html]
+
