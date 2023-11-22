@@ -44,6 +44,8 @@ https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 •	Customer Support : Interactive Semi - Rule Based Chatbot
 •	Digital content and entertainment industry : IMDB Review Customer Sentiment Analysis
 
+**Data Analysis in Python**
+[https://wesmckinney.com/book/time-series](https://wesmckinney.com/book/time-series)
 
 **Forecasting: Principles and Practice**
 
