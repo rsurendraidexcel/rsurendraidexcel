@@ -3,8 +3,6 @@
 **LinkedIn Connect :** https://www.linkedin.com/in/surendra-bahadur-rai-14561818/
 
 
-This Contains All the ML & AI Projects that I have done while understanding Concepts during my Academic Course
-
 **My Profile:**
 https://la.utexas.edu/texasexeced/digitalVerification.html?key=KTNfL
 
@@ -13,6 +11,14 @@ https://olympus1.mygreatlearning.com/certificate/OFFEOFKF
 **Project and Assignment In Profile:**
 
 https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
+
+This Content is Basical  Related AIML and Data Science and Data Analysis  
+
+## Basic Python key
+https://www.pythontutorial.net/
+
+https://python-course.eu/
+
 
 **Notebooks details:**
 
@@ -45,7 +51,12 @@ https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 •	Digital content and entertainment industry : IMDB Review Customer Sentiment Analysis
 
 **Data Analysis in Python**
+
 [https://wesmckinney.com/book/time-series](https://wesmckinney.com/book/time-series)
+
+**Data Wrangaling Python**
+
+[https://datawranglingpy.gagolewski.com/index.html](https://datawranglingpy.gagolewski.com/index.html)
 
 **Forecasting: Principles and Practice**
 
