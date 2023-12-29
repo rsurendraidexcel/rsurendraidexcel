@@ -62,7 +62,19 @@ https://python-course.eu/
 
 [https://otexts.com/fpp3/intro.html](https://otexts.com/fpp3/intro.html)
 
-**R-Data Science**
+### R-Biginer Free Learning
+
+**Learn R pgrograming**
+
+[https://learnetutorials.com/r-programming](https://learnetutorials.com/r-programming)
+
+**R for Social Scientists**
+
+[https://datacarpentry.org/r-socialsci/01-intro-to-r.html](https://datacarpentry.org/r-socialsci/01-intro-to-r.html)
+
+**Data-Wrangling**
+
+[https://bookdown.org/jgscott/DSGI/data-wrangling.html](https://bookdown.org/jgscott/DSGI/data-wrangling.html)
 
 [https://r4ds.had.co.nz/index.html](https://r4ds.had.co.nz/index.html)
 
@@ -80,3 +92,23 @@ https://python-course.eu/
 [https://probability4datascience.com/lecture.html](https://probability4datascience.com/lecture.htm)
 
 [https://probability4datascience.com/video_ch01.html](https://probability4datascience.com/video_ch01.html)
+
+
+## R Programing language and practice Link
+## This is helpfull for Data Scientist People.  How mathematical Equation drow in document as well as Statistical Analysis Viewing the Reports
+
+**Basic Mathematical Equation formula**
+[https://rpruim.github.io/s341/S19/from-class/MathinRmd.html](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
+
+[https://bookdown.org/yihui/rmarkdown/markdown-syntax.html#inline-formatting](https://bookdown.org/yihui/rmarkdown/markdown-syntax.html#inline-formatting)
+
+##Reference Link
+
+[https://book.stat420.org/index.html](https://book.stat420.org/index.html)
+
+[https://rmarkdown.rstudio.com/lesson-1.html](https://rmarkdown.rstudio.com/lesson-1.html)
+
+[https://bookdown.org/fmcron/Rhodes-template](https://bookdown.org/fmcron/Rhodes-template)
+
+[https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#Installation](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#Installation)
+
