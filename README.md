@@ -94,15 +94,15 @@ https://python-course.eu/
 [https://probability4datascience.com/video_ch01.html](https://probability4datascience.com/video_ch01.html)
 
 
-## R Programing language and practice Link
-## This is helpfull for Data Scientist People.  How mathematical Equation drow in document as well as Statistical Analysis Viewing the Reports
+### R Programing language and practice Link
+### This is helpfull for Data Scientist People.  How mathematical Equation drow in document as well as Statistical Analysis Viewing the Reports
 
 **Basic Mathematical Equation formula**
 [https://rpruim.github.io/s341/S19/from-class/MathinRmd.html](https://rpruim.github.io/s341/S19/from-class/MathinRmd.html)
 
 [https://bookdown.org/yihui/rmarkdown/markdown-syntax.html#inline-formatting](https://bookdown.org/yihui/rmarkdown/markdown-syntax.html#inline-formatting)
 
-##Reference Link
+### Reference Link
 
 [https://book.stat420.org/index.html](https://book.stat420.org/index.html)
 
