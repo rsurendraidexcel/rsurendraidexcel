@@ -68,6 +68,13 @@ https://python-course.eu/
 
 [https://learnetutorials.com/r-programming](https://learnetutorials.com/r-programming)
 
+[https://sparkbyexamples.com/r-tutorial-with-examples/](https://sparkbyexamples.com/r-tutorial-with-examples/)
+
+## R Cook Book
+
+[https://rc2e.com/](https://rc2e.com/)
+
+
 **R for Social Scientists**
 
 [https://datacarpentry.org/r-socialsci/01-intro-to-r.html](https://datacarpentry.org/r-socialsci/01-intro-to-r.html)
