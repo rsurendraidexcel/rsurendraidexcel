@@ -87,6 +87,8 @@ https://python-course.eu/
 
 **R Programming for Data Science:**
 
+[https://deepr.gagolewski.com/](https://deepr.gagolewski.com/)
+
  [https://bookdown.org/rdpeng/rprogdatascience/](https://bookdown.org/rdpeng/rprogdatascience/) 
 
  **Under stating R- Mean, median, Harmonic Mean, Weight mean,Geometric Mean**
