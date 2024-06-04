@@ -6,7 +6,10 @@
 **My Profile:**
 https://la.utexas.edu/texasexeced/digitalVerification.html?key=KTNfL
 
+![](./images/Certificat_texas.jpg?raw=true)
+
 https://olympus1.mygreatlearning.com/certificate/OFFEOFKF
+![](./images/greate-lekes.jpg?raw=true)
 
 **Project and Assignment In Profile:**
 
