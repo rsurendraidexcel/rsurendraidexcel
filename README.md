@@ -15,7 +15,58 @@ https://olympus1.mygreatlearning.com/certificate/OFFEOFKF
 
 https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 
-This Content is Basical  Related AIML and Data Science and Data Analysis  
+I learn thise Course from The Univercity of Texax in austin and Then Deakin Univercity. Provided by Greate-lack from great-learning.
+
+- Artificial Intelligent Machine Learing  and Data Scince and Analyitc 
+- Master In Globale Data Scientist
+
+## I learng From This Two Univercity
+ 
+ ## First Year
+
+ - Python Progrmaign I and II
+ - Applied Mathematics Statatistics
+ - Machine Learing Algorithm theory and Mathematics and Handsn Lab Exersize as well as relevant Capttons Project of topics.
+    - Supervice Machine Learing
+    - Unsupervice Machine Learing
+    - Ensemble Learning 
+    - Reinforcement Machine Learing
+    - Neural Network and Deep Learing
+    - Feature Enginering 
+    - Statistical Data Analytic
+    - Model Hypterparamter Tuning and Model Evalution and Matrix
+    - Computer vision ( Object Detection, Image Classification, other related compute vision staff )
+    - NLP Natural Language Procession with ML Algorightm
+    - Recomentation System and Syntiment Analysis
+
+## Second year
+
+ - Machine Learing Algoritm and Mathematics
+ - Advance Python Programing and ML related libray and tools 
+ - Practice Exersize and Project
+ - Big Data Hadoop System and Pyspark and Big Data Analitic
+ - Python Data Extraction, Injection to Relation Database
+ - SQL Programing 
+ - Lab Exerisse and Project Assignment 
+ - R-Programing Languge 
+ - Applied Statatical Analysis Mathematic In R-Proraming language
+ - Real World Data Analytic
+ - Linear programing in R-Languge 
+ - Mathematic in Geme theory Mathematic in R-Lanauge
+ - Data Wrangling (python numpy, pyspark, R-laguage)
+ - Data Visualiation and Statistical Analitic (Power BI and Tableau)
+ - Machine Learing Mathematic
+    - Liner Algebra mathematic I and II  
+    - Calculs, Vector
+ - Enginering AI Solution 
+    - Modern AI Software Development Process
+    - Data Governance and Complaince and security 
+    - Azure Machine Learing
+    - Azure Ml Model Deployment
+    - Mlops Operation 
+    - Azue Computer vision , Azure Custome Vision
+    - Azure openAi
+    - practice and project Assignment
 
 ## Basic Python key
 https://www.pythontutorial.net/
