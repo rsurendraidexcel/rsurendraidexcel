@@ -17,7 +17,7 @@ https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 
 I learn thise Course from The Univercity of Texax in austin and Then Deakin Univercity. Provided by Greate-lack from great-learning.
 
-- Artificial Intelligent Machine Learing  and Data Scince and Analyitc 
+- Artificial Intelligent Machine Learing  and Data Scince and analytics 
 - Master In Globale Data Scientist
 
 ## I learng From This Two Univercity
@@ -32,7 +32,9 @@ I learn thise Course from The Univercity of Texax in austin and Then Deakin Univ
     - Ensemble Learning 
     - Reinforcement Machine Learing
     - Neural Network and Deep Learing
-    - Feature Enginering 
+    - Feature Enginering
+    - Time Series Forecasting
+    - Recomendation System
     - Statistical Data Analytic
     - Model Hypterparamter Tuning and Model Evalution and Matrix
     - Computer vision ( Object Detection, Image Classification, other related compute vision staff )
@@ -40,7 +42,6 @@ I learn thise Course from The Univercity of Texax in austin and Then Deakin Univ
     - Recomentation System and Syntiment Analysis
 
 ## Second year
-
  - Machine Learing Algoritm and Mathematics
  - Advance Python Programing and ML related libray and tools 
  - Practice Exersize and Project
@@ -50,23 +51,25 @@ I learn thise Course from The Univercity of Texax in austin and Then Deakin Univ
  - Lab Exerisse and Project Assignment 
  - R-Programing Languge 
  - Applied Statatical Analysis Mathematic In R-Proraming language
- - Real World Data Analytic
+ - Real World Data analytics
  - Linear programing in R-Languge 
  - Mathematic in Geme theory Mathematic in R-Lanauge
  - Data Wrangling (python numpy, pyspark, R-laguage)
- - Data Visualiation and Statistical Analitic (Power BI and Tableau)
+ - Data Visualiation and Statistical analytics (Power BI and Tableau)
  - Machine Learing Mathematic
     - Liner Algebra mathematic I and II  
     - Calculs, Vector
  - Enginering AI Solution 
     - Modern AI Software Development Process
-    - Data Governance and Complaince and security 
+    - Data Governance and Complaince and security
+    - Artifical Inteligent System
     - Azure Machine Learing
     - Azure Ml Model Deployment
     - Mlops Operation 
-    - Azue Computer vision , Azure Custome Vision
+    - Azure Computer vision , Azure Custome Vision
     - Azure openAi
     - practice and project Assignment
+  - Generative AI
 
 ## Basic Python key
 https://www.pythontutorial.net/
