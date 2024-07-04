@@ -17,8 +17,8 @@ https://eportfolio.mygreatlearning.com/surendra-bahadur-rai
 
 I learn thise Course from The Univercity of Texax in austin and Then Deakin Univercity. Provided by Greate-lack from great-learning.
 
-- Artificial Intelligent Machine Learing  and Data Scince and analytics 
-- Master In Globale Data Scientist
+- Artificial Intelligent Machine Learing  and Data Scince and analytics (AIML Post Graduate Program)
+- Master In Globale Data Scientist (Master In Data Science Graduate Degree Programs)
 
 ## I learng From This Two Univercity
  
