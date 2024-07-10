@@ -26,7 +26,7 @@ I learn thise Course from The Univercity of Texax in austin and Then Deakin Univ
 
  - Python Progrmaign I and II
  - Applied Mathematics Statatistics
- - Machine Learing Algorithm theory and Mathematics and Handsn Lab Exersize as well as relevant Capttons Project of topics.
+ - Machine Learing Algorithm theory and Mathematics
     - Supervice Machine Learing
     - Unsupervice Machine Learing
     - Ensemble Learning 
@@ -58,18 +58,20 @@ I learn thise Course from The Univercity of Texax in austin and Then Deakin Univ
  - Data Visualiation and Statistical analytics (Power BI and Tableau)
  - Machine Learing Mathematic
     - Liner Algebra mathematic I and II  
-    - Calculs, Vector
- - Enginering AI Solution 
+    - Calculs, Vector, Grap
+    - Probability and Statistic
+    - Enginering AI Solution 
     - Modern AI Software Development Process
     - Data Governance and Complaince and security
     - Artifical Inteligent System
     - Azure Machine Learing
     - Azure Ml Model Deployment
-    - Mlops Operation 
+    - Mlops Operations 
     - Azure Computer vision , Azure Custome Vision
     - Azure openAi
     - practice and project Assignment
   - Generative AI
+  - NLP Natural Lanauge Processing
 
 ## Basic Python key
 https://www.pythontutorial.net/
