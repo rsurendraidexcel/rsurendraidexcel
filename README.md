@@ -57,10 +57,12 @@ I learn thise Course from The Univercity of Texax in austin and Then Deakin Univ
  - Data Wrangling (python numpy, pyspark, R-laguage)
  - Data Visualiation and Statistical analytics (Power BI and Tableau)
  - Machine Learing Mathematic
+    - Statistic Mathematic
     - Liner Algebra mathematic I and II  
     - Calculs, Vector, Grap
+    - Probability
     - Probability and Statistic
-    - Enginering AI Solution 
+ - Enginering AI Solution 
     - Modern AI Software Development Process
     - Data Governance and Complaince and security
     - Artifical Inteligent System
@@ -71,7 +73,20 @@ I learn thise Course from The Univercity of Texax in austin and Then Deakin Univ
     - Azure openAi
     - practice and project Assignment
   - Generative AI
-  - NLP Natural Lanauge Processing
+    - NLP(Natural Lanauge Processing) 
+    - Sequencial Data Learing Algoritm , RNN, LSTM and GRU
+    - (https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+    - Large Languate Model: like GPT-3.5 turbo, GPT-40 & meta LLama3.1 etc
+    - Openai, azure ml, azure vision and custom vision  
+    - Hugging Face,Transformers, LangChain framework & librery , vectordb
+    - word embeding Techniques
+       - TF-IDF (Term Frequency-Inverse Document Frequency )
+       - word2vec
+       - Global Vector for Word Representation (Glove)
+       - BERT
+       - Bag of Words(BoW)
+       - Fasttext 
+    - NLTK,gensim & SpaCy Language Processiong library 
 
 ## Basic Python key
 https://www.pythontutorial.net/
@@ -179,4 +194,3 @@ https://python-course.eu/
 [https://bookdown.org/fmcron/Rhodes-template](https://bookdown.org/fmcron/Rhodes-template)
 
 [https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#Installation](https://cran.r-project.org/web/packages/kableExtra/vignettes/awesome_table_in_html.html#Installation)
-
